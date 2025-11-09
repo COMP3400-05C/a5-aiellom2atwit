@@ -1,0 +1,9 @@
+build
+*.o
+compile_commands.json
+cmake-build-debug
+tests/out.txt
+Testing
+parta
+partb
+partc

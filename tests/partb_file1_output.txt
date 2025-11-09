@@ -1,0 +1,6 @@
+Category,Count
+Upper,1
+Lower,34
+Number,0
+Space,9
+Other,0
